@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-06-05T08:24:59.856Z</updated>
+  <updated>2023-06-05T08:36:37.602Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,13 +21,15 @@
     <link href="http://example.com/2023/06/05/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%98%AF%E5%A6%82%E4%BD%95%E5%90%AF%E5%8A%A8%E7%9A%84/"/>
     <id>http://example.com/2023/06/05/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%98%AF%E5%A6%82%E4%BD%95%E5%90%AF%E5%8A%A8%E7%9A%84/</id>
     <published>2023-06-05T08:24:29.000Z</published>
-    <updated>2023-06-05T08:24:59.856Z</updated>
+    <updated>2023-06-05T08:36:37.602Z</updated>
     
     
     <summary type="html">试试水嘻嘻....使用Hexo + GitHub搭建个人博客</summary>
     
     
     
+    
+    <category term="Hexo" scheme="http://example.com/tags/Hexo/"/>
     
   </entry>
   

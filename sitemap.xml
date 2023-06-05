@@ -46,6 +46,13 @@
   </url>
 
   
+  <url>
+    <loc>http://example.com/tags/Hexo/</loc>
+    <lastmod>2023-06-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
 </urlset>
